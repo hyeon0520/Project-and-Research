@@ -1,4 +1,4 @@
-# EcoAI 프로젝트 관련
+# Project and research
 *컴퓨터과학, 프로그래밍, 코딩 관련 프로젝트*
 | Date | Project | Details |
 |-------|-------|-------|
