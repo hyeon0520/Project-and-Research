@@ -1,6 +1,6 @@
 # PaR
 *컴퓨터과학, 프로그래밍, 수학, 코딩 관련 프로젝트 및 연구*
-| Date | Project/Reserach | Details |
+| Date | Project / Reserach | Details |
 |-------|-------|-------|
 | 2025.05.12~06.24 | Fast Furier Transform | 고속 푸리에 변환을 활용한 이상치 탐지 관련 논문 및 코드 작성 |
 | 2025.07.01~      | PPO, 강화학습, SAC-AP | 강화학습 기반 이상치 탐지 및 후속 연구 탐색 |
