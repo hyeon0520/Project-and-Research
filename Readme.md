@@ -1,4 +1,4 @@
-# Project and research
+# Project and Research
 *컴퓨터과학, 프로그래밍, 코딩 관련 프로젝트*
 | Date | Project | Details |
 |-------|-------|-------|
