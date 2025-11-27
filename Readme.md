@@ -11,6 +11,8 @@ Project-and-Research/
 ├── FFT/
 ├── PPO/
 ├── Philosophy/
+│   ├── Think/ # 생각
+│   ├── Scenario/ # 극본
 ├── Math/
 │   ├── Calculus/ # 미적분
 |   ├── Linear Algebra/ # 선형대수학
